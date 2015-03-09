@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.cw.board.BoardTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2014-12-14T16:53:48" hostname="Simp-Komputer" time="0.0">
+  <properties/>
+  <testcase name="createPattern_emptyBoard_returnEmptyString" classname="pl.edu.agh.cw.board.BoardTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.cw.dictionary.InteliCwDBTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2014-12-14T16:53:48" hostname="Simp-Komputer" time="0.085">
+  <properties/>
+  <testcase name="getRandom_databaseIsEmpty_nullReturned" classname="pl.edu.agh.cw.dictionary.InteliCwDBTests" time="0.0"/>
+  <testcase name="getRandom_noEntryWithLengthFound_nullReturned" classname="pl.edu.agh.cw.dictionary.InteliCwDBTests" time="0.084"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
